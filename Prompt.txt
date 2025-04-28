@@ -1,0 +1,2 @@
+Quiero crear una version de tetris para consola en C. 
+Ayudame a realizar el videojuego de manera basica y guardando los puntajes en un archivo .txt o .json mejor
